@@ -1,4 +1,4 @@
-# Awesome Gen AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
+# Awesome Gen AI in Finance [![Community](https://images.app.goo.gl/azGL52Rh2zej58uB9)](https://substack.com/@quantai)
 
 This repository contains an extensive collection of resources, tools, and use cases for using Generative AI in the finance sector. These resources span from basic fundamentals to advanced applications and include examples from companies, open-source projects, and more.
 
