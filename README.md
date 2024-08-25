@@ -48,6 +48,73 @@ This repository contains an extensive collection of resources, tools, and use ca
 
 ## Use Cases/Application - Finance
 
+# Use Cases of Generative AI in Finance
+
+## Bank and AI
+
+| Bank/Institution | Use Case | Summary | Links |
+|------------------|----------|---------|-------|
+| NatWest | Personalizing Banking | Uses machine learning on AWS to scale personalized banking services. | [AWS re:Invent 2022 - NatWest: Personalizing banking at scale with machine learning on AWS (FSI203)](https://www.youtube.com/watch?v=rxECEe8wqkA), [Summary](https://www.notion.so/AWS-re-Invent-2022-NatWest-Personalizing-banking-at-scale-with-machine-learning-on-AWS-FSI203-Su-1a3cb29ca2a24e43aaabc4843440f2c2?pvs=21) |
+
+## Multiple Use Cases
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Generative AI Transforming Finance | Overview of how generative AI is changing the finance industry across various use cases. | [Council Post: Generative AI: Transforming The Future Of Finance](https://www.forbes.com/sites/forbescoachescouncil/2023/09/05/generative-ai-transforming-the-future-of-finance/), [Generative AI in Finance and Beyond](https://whitesight.net/generative-ai-in-finance-and-beyond/) |
+
+## Broader Level
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| AI Cash Flow Software | Reduces human work by almost 90% through AI-driven cash flow management. | [JPMorgan Says Its AI Cash Flow Software Cut Human Work By Almost 90%](https://www.entrepreneur.com/business-news/jpmorgan-says-its-ai-cashflow-tool-cut-human-work-almost-90/470682) |
+| Generative AI Chatbot | First Singapore bank to roll out generative AI chatbot to all employees globally. | [OCBC is first Singapore bank to roll out generative AI chatbot to all employees globally | OCBC Bank](https://www.ocbc.com/group/media/release/2023/ocbc-is-first-singapore-bank-to-roll-out-generative-ai-chatbot-to-all-employees-globally) |
+| Secure Generative AI | Offers secure generative AI solutions to employees. | [AXA offers secure Generative AI to employees](https://www.axa.com/en/press/press-releases/axa-offers-securegenerative-ai-to-employees) |
+| Generative AI Applications | Identifies a few hundred potential use cases for generative AI. | [HSBC sees a 'few hundred' potential use cases for generative AI: HK CEO](https://www.msn.com/en-us/money/companies/hsbc-sees-a-few-hundred-potential-use-cases-for-generative-ai-hk-ceo/vi-AA1jiY89) |
+| ChatGPT for Grunt Work | Deploys ChatGPT to handle repetitive tasks in the finance industry. | [Hedge Funds Are Deploying ChatGPT to Handle All the Grunt Work](https://www.bloomberg.com/news/articles/2023-05-31/hedge-funds-are-deploying-chatgpt-to-handle-all-the-grunt-work) |
+
+## Algo Trading
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Sentiment Analysis | Uses generative AI for sentiment analysis to inform trading decisions. | [Twitter Sentiment Analysis Using Zero-Shot Classification - Analyzing Alpha](https://analyzingalpha.com/twitter-sentiment-analysis-python-tutorial), [Financial News Sentiment Analysis with Chat GPT](https://futurez.medium.com/news-sentiment-analysis-with-chat-gpt-7512d7d7e98) |
+| Data Analysis and Signal Generation | Leverages AI to analyze data and generate trading signals. | [Analyzing ETF Data with Chat GPT](https://medium.datadriveninvestor.com/analyzing-etf-data-with-chat-gpt-f8a421db2bce), [Using Chat GPT Plugins for Data Driven Stock Analysis](https://medium.datadriveninvestor.com/using-chat-gpt-plugins-for-data-driven-stock-analysis-6ce83f1c8970) |
+| Code Generation and Live Trading | AI assists in generating code for live trading systems. | [I no longer program, I build. ChatGPT + Bing Chat+ Trading Platform](https://smartlever.medium.com/i-no-longer-program-i-build-chatgpt-bing-chat-trading-platform-83e8bf3f8037), [I Built an AI Trading Bot with Llama 2!](https://www.youtube.com/watch?v=6FQz7MDTogs) |
+
+## Portfolio Management
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| AI Assistant for Advisors | Launched a generative AI assistant to help financial advisors. | [Morgan Stanley kicks off generative AI era on Wall Street with assistant for financial advisors](https://www.cnbc.com/2023/09/18/morgan-stanley-chatgpt-financial-advisors.html) |
+| AI Investment Advisor | Developing AI services that offer investment advice similar to ChatGPT. | [JPMorgan is developing a ChatGPT-like A.I. service that gives investment advice](https://www.cnbc.com/2023/05/25/jpmorgan-develops-ai-investment-advisor.html) |
+| Portfolio Management | Exploring the potential of AI as portfolio managers. | [ChatGPT and A.I. might have a future as your portfolio manager, study suggests](https://www.cnbc.com/2023/03/29/chatgpt-and-ai-might-have-a-future-as-your-portfolio-manager-study-suggests.html) |
+
+## Equity Research
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Equity Research | AI-driven equity research assistance for analysts. | [Equity Research Effortlessly with ChatGPT](https://richardtoad.substack.com/p/equity-research-effortlessly-with) |
+
+## Loan Default
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Generative AI in Credit Scoring | Uses generative AI models to improve credit scoring and predict loan defaults. | [Credit Karma’s Journey To Reliable Generative AI Models With Data Observability](https://www.montecarlodata.com/blog-credit-karmas-journey-to-reliable-generative-ai-models-with-data-observability) |
+
+## Fraud Detection
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Fraud Detection | AI model claims to improve fraud detection by up to 300%. | [Mastercard jumps into generative AI race with model it says can boost fraud detection by up to 300%](https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html) |
+
+## Customer Service and Chatbots
+
+| Use Case | Summary | Links |
+|----------|---------|-------|
+| Virtual Assistant (Erica) | AI-powered virtual assistant helping customers with banking tasks. | [Erica - Virtual Financial Assistant From Bank of America](https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica) |
+| Kodex AI | Investment in Kodex AI to enhance customer service with generative AI. | [Deutsche Bank invests in Kodex AI](https://www.db.com/news/detail/20231011-deutsche-bank-invests-in-kodex-ai?language_id=1) |
+| AI Chatbots in Banking | Various implementations of AI chatbots for improving customer service. | [KAI-GPT: Banking's First Purpose-Built Language Model | Kasisto](https://kasisto.com/blog/kai-gpt-the-first-large-language-model-purpose-built-for-banking/) |
+
+
 ### Financial Modeling
 - [Building an AI Financial Analyst Using Langchain and Streamlit](https://medium.com/mlearning-ai/building-an-ai-financial-analyst-using-langchain-openai-function-calling-and-streamlit-part-2-5dcffcd1f42d)
 - [Using Local AI Models for Financial Analysis](https://www.youtube.com/watch?v=XFiof0V3nhA)
