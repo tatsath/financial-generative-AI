@@ -1,79 +1,109 @@
-# Awesome Generative AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
+# Awesome Gen AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47)
 
-Generative AI is revolutionizing the financial industry by enabling advanced data analysis, automated trading, fraud detection, portfolio management, and more. This repository is a curated collection of resources, tools, and research focused on the applications of Generative AI in finance.
-
-[[中文资源](./chinese.md)]
+This repository contains an extensive collection of resources, tools, and use cases for using Generative AI in the finance sector. These resources span from basic fundamentals to advanced applications and include examples from companies, open-source projects, and more.
 
 ## Contents
 
-- [LLMs](#llms)
-- [Code Generation and Data Analysis](#code-generation-and-data-analysis)
-- [Algo Trading](#algo-trading)
-- [Portfolio Management](#portfolio-management)
-- [Equity Research](#equity-research)
-- [Credit and Loan Default Analysis](#credit-and-loan-default-analysis)
-- [Fraud Detection](#fraud-detection)
-- [Customer Service and Chatbots](#customer-service-and-chatbots)
-- [Asset Management](#asset-management)
-- [Articles](#articles)
-- [Others](#others)
+- [Gen AI Fundamentals](#gen-ai-fundamentals)
+- [Gen AI - Infra and Application Providers](#gen-ai---infra-and-application-providers)
+- [Why in Finance - Landscape and Tech](#why-in-finance---landscape-and-tech)
+- [Gen AI - Finance Tools and Startups](#gen-ai---finance-tools-and-startups)
+- [Use Cases/Application - Finance](#use-casesapplication---finance)
+- [Gen AI Application - ChatGPT, Bard, etc.](#gen-ai-application---chatgpt-bard-etc)
+- [Gen AI Application - Open Source LLM, API, Packages, Companies](#gen-ai-application---open-source-llm-api-packages-companies)
+- [Gen AI Application - Vendor/Cloud Project/Organisation](#gen-ai-application---vendorcloud-projectorganisation)
+- [Cost Breakdown & Analysis](#cost-breakdown--analysis)
 
-## LLMs
+## Gen AI Fundamentals
 
-- 🌟 [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311) - GPT-4 outperforms financial analysts in predicting future earnings changes and generating narrative insights, suggesting a potential central role for LLMs in financial decision-making.
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Provides a playground for those interested in LLMs and NLP in Finance.
-- [PIXIU](https://github.com/chancefocus/PIXIU) - An open-source financial large language model with a dataset of 136K instruction samples and a comprehensive evaluation benchmark.
+### Overview
+- [AI-Enabled Workers: The Future](https://www.linkedin.com/feed/update/urn:li:activity:7109183288295968768?updateEntityUrn=urn:li:fs_updateV2:(urn:li:activity:7109183288295968768,FEED_DETAIL,EMPTY,DEFAULT,false))
+- [Generative AI: An Executive's Guide](https://www.linkedin.com/posts/todd-hassenfelt_generative-ai-an-executives-guide-activity-7064528979839389696-wJsp?utm_source=share&utm_medium=member_desktop)
 
-## Code Generation and Data Analysis
+### Prompt Engineering
+- [Prompt Engineering for Finance](https://www.linkedin.com/posts/ai-finance-club_prompt-engineering-there-are-different-types-activity-7155890732803796992-2hJs?utm_source=share&utm_medium=member_desktop)
+- [Cheat Sheet: Drafting the Perfect Prompt](https://medium.com/aimonks/chatgpt-cheat-sheet-drafting-the-perfect-prompt-part-1-5149c9b1d8ab)
+- [Best Resources to Learn Prompt Engineering](https://levelup.gitconnected.com/5-best-resoruces-to-learn-prompt-engineering-7a0ffb459324)
 
-- 🌟 [Microsoft Copilot for Finance and FP&A](https://christianmartinezfinancialfox.medium.com/microsoft-copilot-for-finance-and-fp-a-9a38407e3212) - Learn how Microsoft Copilot is transforming finance and FP&A.
-- [Using Chat GPT Plugins for Data Driven Stock Analysis](https://medium.datadriveninvestor.com/using-chat-gpt-plugins-for-data-driven-stock-analysis-6ce83f1c8970) - A guide on using Chat GPT plugins for data-driven stock analysis.
-- [The Magical ChatGPT Code Interpreter Plugin](https://levelup.gitconnected.com/the-magical-chatgpt-code-interpreter-plugin-your-personal-programmer-and-data-analyst-f8cd69e8323b) - Your personal programmer and data analyst.
+## Gen AI - Infra and Application Providers
 
-## Algo Trading
+### Setup & Tools
+- [AI Whiteboard Sketches](https://www.linkedin.com/posts/linasbeliunas_this-is-absolutely-insane-ai-can-now-turn-activity-7113115534988058624-GxrB/?utm_source=share&utm_medium=member_desktop)
+- [Excel Spreadsheets with AI](https://www.youtube.com/watch?v=21bXQDXSxYs&t=764s)
+- [Code Interpreter Plugin for Data Analysis](https://levelup.gitconnected.com/the-magical-chatgpt-code-interpreter-plugin-your-personal-programmer-and-data-analyst-f8cd69e8323b)
+- [Copilot for Finance and FP&A](https://christianmartinezfinancialfox.medium.com/microsoft-copilot-for-finance-and-fp-a-9a38407e3212)
+- [AI Tools Changing Finance](https://www.linkedin.com/feed/update/urn:li:activity:7128595783028740097/?updateEntityUrn=urn:li:fs_updateV2:(urn:li:activity:7128595783028740097,FEED_DETAIL,EMPTY,DEFAULT,false))
 
-- 🌟 [ChatGPT may be able to predict stock movements](https://www.cnbc.com/2023/04/12/chatgpt-may-be-able-to-predict-stock-movements-finance-professor-says.html) - A finance professor demonstrates how ChatGPT may predict stock movements.
-- [I Built an AI Trading Bot with Llama 2!](https://www.youtube.com/watch?v=6FQz7MDTogs) - A YouTube tutorial on building an AI trading bot with Llama 2.
-- [Composer - Your AI copilot for trading](https://www.youtube.com/watch?v=7r3GusNsnF4) - Composer AI's introduction to their AI copilot for trading.
+## Why in Finance - Landscape and Tech
 
-## Portfolio Management
+### Industry Analysis
+- [Generative AI in Finance and Beyond](https://whitesight.net/generative-ai-in-finance-and-beyond/)
+- [Transforming The Future Of Finance with Generative AI](https://www.forbes.com/sites/forbescoachescouncil/2023/09/05/generative-ai-transforming-the-future-of-finance/)
 
-- 🌟 [Morgan Stanley kicks off generative AI era on Wall Street](https://www.cnbc.com/2023/09/18/morgan-stanley-chatgpt-financial-advisors.html) - Morgan Stanley introduces a generative AI assistant for financial advisors.
-- [JPMorgan is developing a ChatGPT-like A.I. service](https://www.cnbc.com/2023/05/25/jpmorgan-develops-ai-investment-advisor.html) - JPMorgan’s development of an AI service that provides investment advice.
-- [AI for portfolio management: An overview](https://www.leewayhertz.com/ai-for-portfolio-management/) - Explore the role of AI in portfolio management.
+## Gen AI - Finance Tools and Startups
 
-## Equity Research
+### Tools & Startups
+- [OpenAI Financial Tools](https://github.com/AI4Finance-Foundation/FinGPT) - A comprehensive financial AI toolkit for data-driven analysis and strategy development.
+- [AI Finance Platform](https://www.leewayhertz.com/generative-ai-platform-for-finance/) - A full-stack platform for leveraging AI in financial decision-making and analysis.
 
-- 🌟 [Equity Research Effortlessly with ChatGPT](https://richardtoad.substack.com/p/equity-research-effortlessly-with) - A Substack article on conducting equity research using ChatGPT.
+## Use Cases/Application - Finance
 
-## Credit and Loan Default Analysis
+### Financial Modeling
+- [Building an AI Financial Analyst Using Langchain and Streamlit](https://medium.com/mlearning-ai/building-an-ai-financial-analyst-using-langchain-openai-function-calling-and-streamlit-part-2-5dcffcd1f42d)
+- [Using Local AI Models for Financial Analysis](https://www.youtube.com/watch?v=XFiof0V3nhA)
 
-- 🌟 [Credit Karma’s Journey to Reliable Generative AI Models](https://www.montecarlodata.com/blog-credit-karmas-journey-to-reliable-generative-ai-models-with-data-observability/) - Credit Karma’s use of generative AI models for credit scoring.
-- [Generative AI: The Next Wave in Credit Assessment?](https://www.garp.org/risk-intelligence/technology/generative-ai-credit-101323) - An exploration of generative AI in credit assessment.
+### Scenario Analysis
+- [How to Use Chat GPT for Sales Forecasting in Excel](https://youtu.be/QInmNthQT9Y?si=xCXqAtiEkK9_nv3y)
+- [Exploratory Data Analysis with GPT-4](https://medium.com/@purvildipakbhai.patel/unleashing-the-power-of-gpt-4-for-exploratory-data-analysis-eda-6ea6659bddda)
 
-## Fraud Detection
+### Document Analysis
+- [Financial Statement Analysis with GPT-4](https://youtu.be/Pi6zb8rAql4?si=kBifM8CYp6JHuMp1)
+- [Large Financial Reports Analysis with LlamaIndex](https://www.youtube.com/watch?v=xT6JpDELKPg)
 
-- 🌟 [Mastercard jumps into generative AI race with fraud detection model](https://www.cnbc.com/2024/02/01/mastercard-launches-gpt-like-ai-model-to-help-banks-detect-fraud.html) - Mastercard’s AI model significantly boosts fraud detection rates.
-- [Generative AI as a Catalyst for Fraud Detection](https://fractal.ai/generative-artificial-intelligence-gai-a-catalyst-for-transforming-fraud-detection-and-prevention/) - Fractal’s insights on how generative AI is transforming fraud detection.
+## Gen AI Application - ChatGPT, Bard, etc.
 
-## Customer Service and Chatbots
+### Applications in Finance
+- [GPT-4 as a Financial Analyst](https://medium.com/@florian.knauseder/gpt-4-as-a-financial-analyst-a-first-dive-into-its-capabilities-401a422737df)
+- [Equity Research with ChatGPT](https://richardtoad.substack.com/p/equity-research-effortlessly-with)
 
-- 🌟 [Erica - Virtual Financial Assistant From Bank of America](https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica) - Bank of America’s virtual assistant, Erica.
-- [KAI-GPT: Banking's First Purpose-Built Language Model](https://kasisto.com/blog/kai-gpt-the-first-large-language-model-purpose-built-for-banking/) - Kasisto’s banking-specific large language model.
-- [Morgan Stanley’s AI-Powered Customer Service](https://www.morganstanley.com/im/en-us/individual-investor/about-us/newsroom/press-release/flip-ai-launches-to-bring-the-holy-grail-of-observability-to-all-enterprises-with-over-6-million.html) - Morgan Stanley’s implementation of AI in customer service.
+### Reconciliation and Compliance
+- [AI for Accounting Reconciliations](https://youtu.be/DEcYjXyxIGk?si=isRsFye9jbdaDjhn)
+- [Using AI for Bank Reconciliation](https://www.reddit.com/r/AIBookkeeping/comments/123rtpn/tutorial_using_chatgpt4_for_bank_reconciliation_a/)
 
-## Asset Management
+## Gen AI Application - Open Source LLM, API, Packages, Companies
 
-- 🌟 [JP Morgan Asset Management (JPM Chat)](https://am.jpmorgan.com/hk/en/asset-management/per/self-service-center/jpm-bot/) - JP Morgan’s AI chatbot for asset management.
-- [Explore AI tools in asset management](https://www.blackrock.com/corporate/literature/whitepaper/viewpoint-artificial-intelligence-machine-learning-asset-management-october-2019.pdf) - A whitepaper on AI and machine learning in asset management.
+### Open Source Projects
+- [LLM-Llama for Document Summarization and Sentiment Analysis](https://github.com/Quanturf/LLM-llama)
+- [FinGPT: Financial AI Toolkit](https://github.com/AI4Finance-Foundation/FinGPT)
+- [H2O GPT: Private Q&A and Summarization](https://github.com/h2oai/h2ogpt)
+- [Ollama: LLM Implementations and Tools](https://github.com/ollama/ollama)
 
-## Articles
+### API & AI Services
+- [AI Financial Analyst Using Langchain](https://medium.com/mlearning-ai/building-an-ai-financial-analyst-using-langchain-openai-function-calling-and-streamlit-part-2-5dcffcd1f42d)
+- [Open Interpreter for Task Automation](https://github.com/KillianLucas/open-interpreter)
 
-- [The Economist](https://github.com/nailperry-zd/The-Economist) - Access to articles from The Economist.
-- [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum&utm_medium=twitter&utm_campaign=sentiment-analysis) - Quantopian’s webinar on using LSTMs for trading.
+## Gen AI Application - Vendor/Cloud Project/Organisation
 
-## Others
+### Enterprise Implementations
+- [Building a Generative AI Assistant in Financial Services](https://www.forbes.com/sites/granteasterbrook/2024/02/14/how-financial-services-firms-can-build-a-generative-ai-assistant/)
+- [LLM Fine-Tuning Techniques](https://bdtechtalks.com/2023/07/10/llm-fine-tuning/)
+- [AWS Bedrock for Generative AI Applications](https://aws.amazon.com/bedrock/)
+- [Cost Efficiency in Large Language Models](https://www.vantage.sh/blog/optimize-large-language-model-costs)
 
-- 🌟🌟 [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - A comprehensive collection of machine learning and deep learning models for stock forecasting.
-- 🌟 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) - A curated list of resources for quant and algorithmic trading with a focus on machine learning.
+## Cost Breakdown & Analysis
 
+### Pricing Comparisons
+- [LLM Large Language Model Cost Analysis](https://lajavaness.medium.com/llm-large-language-model-cost-analysis-d)
+- [Azure vs AWS Cost Efficiency for LLMs](https://medium.com/artefact-engineering-and-data-science/llms-deployment-a-practical-cost-analysis-e0c1b8eb08ca)
+- [GPU Pricing for AI Models](https://www.runpod.io/gpu-instance/pricing)
+
+## Additional Resources
+
+### Repositories
+- [Financial Modeling with Python](https://github.com/Quanturf/Financial-Modeling)
+- [AI Trading Bot Framework](https://github.com/trading-bot-framework)
+- [Sentiment Analysis with LLMs](https://github.com/LLMSentimentAnalysis)
+
+---
+
+Feel free to explore, contribute, and share insights on the latest developments in AI applications for the finance industry. Join the community and let's revolutionize finance with AI
