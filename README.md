@@ -1,4 +1,6 @@
-# Awesome Gen AI in Finance [![Community](https://images.app.goo.gl/azGL52Rh2zej58uB9)](https://substack.com/@quantai)
+# Awesome Gen AI in Finance [![Substack](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Substack_Logo.png/120px-Substack_Logo.png)](https://substack.com/@quantai) 
+
+
 
 This repository contains an extensive collection of resources, tools, and use cases for using Generative AI in the finance sector. These resources span from basic fundamentals to advanced applications and include examples from companies, open-source projects, and more.
 
@@ -48,13 +50,12 @@ This repository contains an extensive collection of resources, tools, and use ca
 
 ## Use Cases/Application - Finance
 
-# Use Cases of Generative AI in Finance
 
 ## Bank and AI
 
-| Bank/Institution | Use Case | Summary | Links |
-|------------------|----------|---------|-------|
-| NatWest | Personalizing Banking | Uses machine learning on AWS to scale personalized banking services. | [AWS re:Invent 2022 - NatWest: Personalizing banking at scale with machine learning on AWS (FSI203)](https://www.youtube.com/watch?v=rxECEe8wqkA), [Summary](https://www.notion.so/AWS-re-Invent-2022-NatWest-Personalizing-banking-at-scale-with-machine-learning-on-AWS-FSI203-Su-1a3cb29ca2a24e43aaabc4843440f2c2?pvs=21) |
+|  Use Case | Summary | Links |
+|----------|---------|-------|
+| Personalizing Banking | Uses machine learning on AWS to scale personalized banking services. | [AWS re:Invent 2022 - NatWest: Personalizing banking at scale with machine learning on AWS (FSI203)](https://www.youtube.com/watch?v=rxECEe8wqkA), [Summary](https://www.notion.so/AWS-re-Invent-2022-NatWest-Personalizing-banking-at-scale-with-machine-learning-on-AWS-FSI203-Su-1a3cb29ca2a24e43aaabc4843440f2c2?pvs=21) |
 
 ## Multiple Use Cases
 
