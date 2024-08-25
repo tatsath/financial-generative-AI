@@ -1,8 +1,10 @@
-# Awesome Gen AI in Finance [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@quantai) 
-
-
+# Generative AI in Finance 
 
 This repository contains an extensive collection of resources, tools, and use cases for using Generative AI in the finance sector. These resources span from basic fundamentals to advanced applications and include examples from companies, open-source projects, and more.
+
+[![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@quantai) For more details, refer to my Substack [here](https://substack.com/@quantai).
+
+
 
 ## Contents
 
