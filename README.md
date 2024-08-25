@@ -1,4 +1,4 @@
-# Awesome Gen AI in Finance [![Substack](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Substack_Logo.png/120px-Substack_Logo.png)](https://substack.com/@quantai) 
+# Awesome Gen AI in Finance [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Community](https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA)](https://discord.gg/cqaUf47) [![Substack](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Substack_Logo.png/120px-Substack_Logo.png)](https://substack.com/@quantai) 
 
 
 
